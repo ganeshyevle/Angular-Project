@@ -2,7 +2,7 @@
 
 ## About this project
 
-In this project I have created three components Header,Mainbody and Footer, In this components I have use html,css,typescrit 
+In this project I have created three components Header,Mainbody and Footer, In this components I have use HTML,CSS, and TypeScript.
 ## Header Component:
 
 Includes the website logo and navigation menu.
