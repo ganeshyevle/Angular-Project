@@ -2,6 +2,19 @@
 
 ## About this project
 
+In this project I have created three components Header,Mainbody and Footer, In this components I have use html,css,typescrit 
+## Header Component:
+
+Includes the website logo and navigation menu.
+Customize the navigation menu.
+
+## Mainbody Component:
+Central section for displaying content.
+
+## Footer Component:
+
+Contains copyright information, contact details, and links to social media.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Technologies I have Used in this project
