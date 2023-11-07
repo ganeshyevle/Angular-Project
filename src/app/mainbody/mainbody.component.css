@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+    height: 400px;
+    background-color: aqua;
+    border: rebeccapurple solid 3px;
+  }
+  
+  .movie-list header, .movie-images header, .chore-list header {
+    text-align: center;
+}
+.movie-images header {
+    position: absolute;
+    top: 100px; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    padding: -10px; 
+    height: 0px;
+}
+
+  .movie-list ul,
+  .chore-list ul {
+    list-style-type: none;
+  }
+  
+  .movie-list {
+    flex: 1; 
+    margin-right: 10px;
+    background-color: #e0e0e0; 
+    border-radius: 20px;
+    height: 300px;
+  }
+
+  .movie-list:hover{
+    background-color: rgb(255, 94, 0);
+  }
+  
+  .movie-images {
+    flex: 1; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin: 0 10px;
+    background-color: #e0e0e0; 
+    padding: 30px;
+    border-radius: 20px;
+    height: 240px;
+  }
+  
+  .movie-images img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 10px;
+}
+
+.movie-images .image-container {
+    padding: 10px; 
+} 
+
+.movie-images:hover{
+    background-color: rgb(255, 94, 0);
+  }
+  .chore-list {
+    flex: 1; 
+    margin-left: 10px;
+    background-color: #e0e0e0;  
+    border-radius: 20px;
+    height: 300px;
+  }
+  .chore-list:hover{
+    background-color: rgb(255, 94, 0);
+  }
+  

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <div class="movie-list">
+            <header>
+                <h2>Movie List</h2>
+            </header>
+          <ul>
+            <li *ngFor="let movie of movies">
+              {{ movie.title }}
+            </li>
+          </ul>
+        </div>
+        <div class="movie-images">
+            <header>
+                <h2>Movie Images</h2>
+            </header>
+            <div *ngFor="let movie of movies">
+                <div class="image-container">
+                    <img [src]="movie.imageUrl" alt="{{ movie.title }} Image">
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="chore-list">
+            <header>
+                <h2>Chore List</h2>
+              </header>
+          <ul *ngFor="let movie of movies">
+            <li *ngFor="let chore of movie.chores">{{ chore }}</li>
+            
+          </ul>
+        </div>
+      </main>
+      
+      
+</body>
+</html>
