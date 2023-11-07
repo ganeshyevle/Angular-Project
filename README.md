@@ -4,9 +4,8 @@
 
 In this project I have created three components Header,Mainbody and Footer, In this components I have use HTML,CSS, and TypeScript.
 - Header Component:
-
-Includes the website logo and navigation menu.
-Customize the navigation menu.
+  Includes the website logo and navigation menu.
+  Customize the navigation menu.
 
 - Mainbody Component:
 Central section for displaying content.
