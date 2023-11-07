@@ -1,6 +1,19 @@
-# Project
+#  Angular Project (Angular Assignment)
+
+## About The Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+
+## Technologies I have Used in this project
+
+This project was created with:
+
+- HTML5
+- CSS3
+- TypeScript
+- Angular
+- Git, GitHub and GitHub Pages
+
 
 ## Development server
 
