@@ -1,6 +1,6 @@
 #  Angular Project (Angular Assignment)
 
-## About this project
+- About this project
 
 In this project I have created three components Header,Mainbody and Footer, In this components I have use HTML,CSS, and TypeScript.
 ## Header Component:
@@ -8,10 +8,10 @@ In this project I have created three components Header,Mainbody and Footer, In t
 Includes the website logo and navigation menu.
 Customize the navigation menu.
 
-## Mainbody Component:
+- Mainbody Component:
 Central section for displaying content.
 
-## Footer Component:
+- Footer Component:
 
 Contains copyright information, contact details, and links to social media.
 
