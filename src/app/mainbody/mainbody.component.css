@@ -21,17 +21,17 @@ main {
 }
 .movie-images header {
     position: absolute;
-    top: 100px; 
+    top: 120px; 
     left: 50%; 
     transform: translateX(-50%); 
     padding: -10px; 
     height: 0px;
 }
 
-  .movie-list ul,
+  /* .movie-list ul,
   .chore-list ul {
     list-style-type: none;
-  }
+  } */
   
   .movie-list {
     flex: 1; 
@@ -55,16 +55,19 @@ main {
     padding: 30px;
     border-radius: 20px;
     height: 240px;
+
   }
   
   .movie-images img {
-    max-width: 100%;
-    max-height: 100%;
-    margin: 10px;
-}
+    max-width: 90%; 
+    max-height: 150%;
+    padding-left: 10px;
+  }
+  
 
 .movie-images .image-container {
-    padding: 10px; 
+    padding: 20px; 
+
 } 
 
 .movie-images:hover{
