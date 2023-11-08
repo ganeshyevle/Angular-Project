@@ -46,14 +46,6 @@ After setting up the project, you can navigate through the different components:
 - Explore the Mainbody component, which is the central section for your content.
 - Scroll down to the Footer component to find copyright information, contact details, and social media links.
 
-## Screenshots
-
-![Header](/path/to/header-screenshot.png)
-
-![Mainbody](/path/to/mainbody-screenshot.png)
-
-![Footer](/path/to/footer-screenshot.png)
-
 ## Contributing
 
 If you would like to contribute to this project, please check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
