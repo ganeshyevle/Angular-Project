@@ -2,6 +2,8 @@
 
 ## Project Name: My Angular Website
 
+Output Link: [View Output](https://drive.google.com/file/d/10fm5p5J1jlHETFfBJVS7urkJtSR9Yk0R/view)
+
 ## About this project
 
 My Angular Website is a web application consisting of three key components: Header, Mainbody, and Footer. These components are built using HTML, CSS, and TypeScript. The project's primary purpose is to serve as a template for a simple website structure.
