@@ -2,7 +2,7 @@
 
 ## Project Name: My Angular Website
 
-Output Link: [View Output](https://drive.google.com/file/d/10fm5p5J1jlHETFfBJVS7urkJtSR9Yk0R/view)
+## Output Link: [View Output](https://drive.google.com/file/d/10fm5p5J1jlHETFfBJVS7urkJtSR9Yk0R/view)
 
 ## About this project
 
